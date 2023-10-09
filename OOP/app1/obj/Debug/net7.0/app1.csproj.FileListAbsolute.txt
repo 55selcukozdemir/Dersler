@@ -1,0 +1,14 @@
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\obj\Debug\net7.0\app1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\obj\Debug\net7.0\app1.AssemblyInfoInputs.cache
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\obj\Debug\net7.0\app1.AssemblyInfo.cs
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\obj\Debug\net7.0\app1.csproj.CoreCompileInputs.cache
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\bin\Debug\net7.0\app1.exe
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\bin\Debug\net7.0\app1.deps.json
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\bin\Debug\net7.0\app1.runtimeconfig.json
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\bin\Debug\net7.0\app1.dll
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\bin\Debug\net7.0\app1.pdb
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\obj\Debug\net7.0\app1.dll
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\obj\Debug\net7.0\refint\app1.dll
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\obj\Debug\net7.0\app1.pdb
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\obj\Debug\net7.0\app1.genruntimeconfig.cache
+C:\Users\selcuk\Desktop\Dersler\OOP\app1\obj\Debug\net7.0\ref\app1.dll

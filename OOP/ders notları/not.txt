@@ -1,0 +1,3 @@
+GetTotalPrice() Pascal case
+getTotalPrice() Camel case
+get_total_price() Snake case
