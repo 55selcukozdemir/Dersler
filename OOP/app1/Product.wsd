@@ -1,13 +1,13 @@
 @startuml
 
-title Product class,
+title Product class
 
 class Product {
-    name: string,
-    price: float,
-    generateDate: datetime,
-    quantity: int,
-    getTotalPrice(): float
+    +name: string
+    +price: float
+    +generateDate: datetime
+    +quantity: int
+    +getTotalPrice(): float
 }
 
 hide empty members

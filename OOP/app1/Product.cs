@@ -1,7 +1,28 @@
-calss Product {
+
+class Product {
 
     // yapısal özellikler
-    public string name;
+
+
+    private string? name;
+
+
+    // accessory
+    public string Name 
+    {
+        get {return name;}
+
+        set 
+        {
+            if(value.Length > 2){
+                name = value;
+            }
+            else 
+            {
+                name = "Geçersiz ürün adı.";
+            }
+        }
+    }
     public float price;
     public DateTime generatedDate;
     public int quantity;
@@ -20,7 +41,8 @@ calss Product {
     * Informating hiding : Bilgi sakladık
     */
     private float CalculateTax(){
-        return private * quantity * tacRate;
+        return price * quantity * tacRate;
     }
 
 }
+
